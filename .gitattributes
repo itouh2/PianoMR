@@ -1,0 +1,46 @@
+# archive
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+# sound
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+# dynamic library
+*.aar filter=lfs diff=lfs merge=lfs -text
+*.aar.disabled filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dll.disabled filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+# image
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+# font
+*.ttf filter=lfs diff=lfs merge=lfs -text
+# anime
+*.anim filter=lfs diff=lfs merge=lfs -text
+#
+"/Wizard/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Spatializer/scenes/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Interaction/Samples/Fonts/Roboto-Bold SDF.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Interaction/Samples/Fonts/Roboto-Medium SDF.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Interaction/Samples/Fonts/Roboto-Regular SDF.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Models/SmallRoom.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/LipSync/Assets/OfflineModel/ovrlipsync_offline_model.pb" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/MacOS/AudioPluginOculusSpatializer" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Tyffon/Wizard/Runtime/Fonts/NotoSansJP-Regular SDF.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Tyffon/Wizard/Runtime/Fonts/NotoSansJP-Regular.otf" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Plugins/RootMotion/Shared Demo Assets/Characters/Teddy/Textures/Teddy_DIF.psd" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Plugins/RootMotion/FinalIK/_DEMOS/Assets/Environments/Desert Terrain.asset" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Tyffon/Wizard/Runtime/Osaka/Umekita3.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Tyffon/Wizard/Runtime/Environment/Ground/GEO_Flowerfield.fbx" filter=lfs diff=lfs merge=lfs -text
+"/Wizard/Assets/Tyffon/Wizard/Runtime/Environment/Ground/GEO_Grassfield.fbx" filter=lfs diff=lfs merge=lfs -text
